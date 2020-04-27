@@ -9,7 +9,7 @@ end
     @name
   end
 
-
+@name = name
 
 
 
