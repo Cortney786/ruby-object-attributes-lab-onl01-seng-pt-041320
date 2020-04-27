@@ -9,7 +9,14 @@ end
     @name
   end
 
-@name = name
+def breed=(breed)
+  @breed = breed 
+end 
+
+def breed 
+  @breed 
+end 
+
 
 
 
