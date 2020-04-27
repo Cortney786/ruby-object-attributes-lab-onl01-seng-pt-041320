@@ -9,7 +9,6 @@ end
     @name
   end
   
-  fido.name = "Fido"
 
 def breed=(breed)
   @breed = breed 
@@ -17,8 +16,8 @@ end
 
 def breed 
   @breed 
-end 
-
+ end 
+end
 
 
 
