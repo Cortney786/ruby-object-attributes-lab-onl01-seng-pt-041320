@@ -8,6 +8,8 @@ end
   def name
     @name
   end
+  
+  fido.name = "Fido"
 
 def breed=(breed)
   @breed = breed 
