@@ -8,3 +8,8 @@ class Dog
   end 
 end 
 
+
+fido = Dog.new("Fido")
+fido.dog_name
+
+
