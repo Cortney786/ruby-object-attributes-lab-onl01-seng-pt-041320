@@ -10,7 +10,5 @@ end
 
 
 
-fido.name = "Fido"
-fido.name
 
 
